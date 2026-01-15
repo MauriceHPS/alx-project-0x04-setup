@@ -1,0 +1,11 @@
+var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/pages/404.js")
+R.c("server/chunks/ssr/cfb85_next_ebd40394._.js")
+R.c("server/chunks/ssr/cfb85_react-icons_fa_index_mjs_2cd09f73._.js")
+R.c("server/chunks/ssr/cfb85_react-icons_lib_dd1d22da._.js")
+R.c("server/chunks/ssr/cfb85_@swc_helpers_cjs__interop_require_wildcard_cjs_24022d46._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__c80bdde9._.js")
+R.c("server/chunks/ssr/cfb85_3b9bbf4d._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__919f0b17._.js")
+R.c("server/chunks/ssr/alx-project-0x03-setup_alx-project-0x03_pages__app_tsx_c89312a4._.js")
+R.m("[project]/alx-project-0x03-setup/alx-project-0x03/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/404.tsx [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/_document.tsx [ssr] (ecmascript)\", INNER_APP => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/_app.tsx [ssr] (ecmascript)\" } [ssr] (ecmascript)")
+module.exports=R.m("[project]/alx-project-0x03-setup/alx-project-0x03/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/404.tsx [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/_document.tsx [ssr] (ecmascript)\", INNER_APP => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/_app.tsx [ssr] (ecmascript)\" } [ssr] (ecmascript)").exports
