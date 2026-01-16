@@ -1,0 +1,170 @@
+[00:00:02.120] Server  LOG     ✓ Ready in 1517ms
+[00:00:09.555] Server  LOG     ○ Compiling / ...
+[00:01:15.779] Server  ERROR   PageNotFoundError: Cannot find module for page: /generate-text-ai
+[00:01:17.694] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <Head>
+    <AppContainer>
+      <Container fn={function fn}>
+        <PagesDevOverlayBridge>
+          <PagesDevOverlayErrorBoundary>
+            <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
+              <App pageProps={{}} Component={function Custom404} err={undefined} router={{sdc:{},sbc:{}, ...}}>
+                <Custom404>
+                  <div
++                   className={"min-h-screen bg-linear-to-r from-purple-500 to-pink-500 \n    flex flex-col justify-c..."}
+-                   className="min-h-screen bg-linear-to-r from-purple-500 to-pink-500  flex flex-col justify-center i..."
+                  >
+                    <h1>
+                    <p>
+                    <p>
+                    <LinkComponent href="/" className={"flex ite..."}>
+                      <a
++                       className={"flex items-center space-x-2 bg-blue-500 hover:bg-blue-600\n         text-white fo..."}
+-                       className="flex items-center space-x-2 bg-blue-500 hover:bg-blue-600 text-white font-semibold ..."
+                        ref={function}
+                        onClick={function onClick}
+                        onMouseEnter={function onMouseEnter}
+                        onTouchStart={function onTouchStart}
+                        href="/"
+                      >
+              ...
+
+[00:01:22.643] Server  ERROR   PageNotFoundError: Cannot find module for page: /text-to-image
+[00:01:23.234] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <Head>
+    <AppContainer>
+      <Container fn={function fn}>
+        <PagesDevOverlayBridge>
+          <PagesDevOverlayErrorBoundary>
+            <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
+              <App pageProps={{}} Component={function Custom404} err={undefined} router={{sdc:{},sbc:{}, ...}}>
+                <Custom404>
+                  <div
++                   className={"min-h-screen bg-linear-to-r from-purple-500 to-pink-500 \n    flex flex-col justify-c..."}
+-                   className="min-h-screen bg-linear-to-r from-purple-500 to-pink-500  flex flex-col justify-center i..."
+                  >
+                    <h1>
+                    <p>
+                    <p>
+                    <LinkComponent href="/" className={"flex ite..."}>
+                      <a
++                       className={"flex items-center space-x-2 bg-blue-500 hover:bg-blue-600\n         text-white fo..."}
+-                       className="flex items-center space-x-2 bg-blue-500 hover:bg-blue-600 text-white font-semibold ..."
+                        ref={function}
+                        onClick={function onClick}
+                        onMouseEnter={function onMouseEnter}
+                        onTouchStart={function onTouchStart}
+                        href="/"
+                      >
+              ...
+
+[00:04:41.421] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <Head>
+    <AppContainer>
+      <Container fn={function fn}>
+        <PagesDevOverlayBridge>
+          <PagesDevOverlayErrorBoundary>
+            <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
+              <App pageProps={{}} Component={function CounterApp} err={undefined} router={{sdc:{},sbc:{}, ...}}>
+                <CounterApp>
+                  <div
++                   className={"min-h-screen bg-linear-to-r from-yellow-400\n         to-pink-500 flex flex-col justi..."}
+-                   className="min-h-screen bg-linear-to-r from-yellow-400 to-pink-500 flex flex-col justify-center it..."
+                  >
+                    <h1>
+                    <p>
+                    <div>
+                    <div className="flex space...">
+                      <button
+                        onClick={function t0}
++                       className={"bg-green-500 hover:bg-green-600 font-semibold text-white \n                     p..."}
+-                       className={"bg-green-500 hover:bg-green-600 font-semibold text-white  py-3 px-8 rounded-full ..."}
+                      >
++                       Increment
+                      <button
+                        onClick={function t1}
++                       className={"bg-red-500 hover:bg-red-600 font-semibold text-white \n                     py-3 ..."}
+-                       className="bg-red-500 hover:bg-red-600 font-semibold text-white  py-3 px-8 rounded-full text-x..."
+                      >
+                    ...
+              ...
+
+[00:04:42.816] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <Head>
+    <AppContainer>
+      <Container fn={function fn}>
+        <PagesDevOverlayBridge>
+          <PagesDevOverlayErrorBoundary>
+            <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
+              <App pageProps={{}} Component={function CounterApp} err={undefined} router={{sdc:{},sbc:{}, ...}}>
+                <CounterApp>
+                  <div
++                   className={"min-h-screen bg-linear-to-r from-yellow-400\n         to-pink-500 flex flex-col justi..."}
+-                   className="min-h-screen bg-linear-to-r from-yellow-400 to-pink-500 flex flex-col justify-center it..."
+                  >
+                    <h1>
+                    <p>
+                    <div>
+                    <div className="flex space...">
+                      <button
+                        onClick={function t0}
++                       className={"bg-green-500 hover:bg-green-600 font-semibold text-white \n                     p..."}
+-                       className={"bg-green-500 hover:bg-green-600 font-semibold text-white  py-3 px-8 rounded-full ..."}
+                      >
++                       Increment
+                      <button
+                        onClick={function t1}
++                       className={"bg-red-500 hover:bg-red-600 font-semibold text-white \n                     py-3 ..."}
+-                       className="bg-red-500 hover:bg-red-600 font-semibold text-white  py-3 px-8 rounded-full text-x..."
+                      >
+                    ...
+              ...
+
