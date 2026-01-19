@@ -479,11 +479,11 @@ var _s = __turbopack_context__.k.signature();
 const CounterApp = ()=>{
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$alx$2d$project$2d$0x04$2d$setup$2f$alx$2d$project$2d$0x05$2f$node_modules$2f$react$2f$compiler$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["c"])(23);
-    if ($[0] !== "4aab1328cff574699ae5439ff8c544b2221d6002b02c64eb0e54c3e6349699dc") {
+    if ($[0] !== "751c73453c06b0dffa61f505020f7a43333c2b93952170fb3f821a48feb73d3f") {
         for(let $i = 0; $i < 23; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "4aab1328cff574699ae5439ff8c544b2221d6002b02c64eb0e54c3e6349699dc";
+        $[0] = "751c73453c06b0dffa61f505020f7a43333c2b93952170fb3f821a48feb73d3f";
     }
     const [count, setCount] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$alx$2d$project$2d$0x04$2d$setup$2f$alx$2d$project$2d$0x05$2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__["useState"])(0);
     let t0;
@@ -580,7 +580,8 @@ const CounterApp = ()=>{
     if ($[13] !== decrement) {
         t7 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$alx$2d$project$2d$0x04$2d$setup$2f$alx$2d$project$2d$0x05$2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
             onClick: decrement,
-            className: "bg-red-500 hover:bg-red-600 font-semibold text-white \n                     py-3 px-8 rounded-full text-xl transition duration-300 shadow:lg transform \n                     hover:scale-105"
+            className: "bg-red-500 hover:bg-red-600 font-semibold text-white \n                     py-3 px-8 rounded-full text-xl transition duration-300 shadow:lg transform \n                     hover:scale-105",
+            children: "Decrement"
         }, void 0, false, {
             fileName: "[project]/alx-project-0x04-setup/alx-project-0x05/pages/counter-app.tsx",
             lineNumber: 69,

@@ -66,7 +66,8 @@ const CounterApp = ()=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("button", {
                             onClick: decrement,
-                            className: "bg-red-500 hover:bg-red-600 font-semibold text-white  py-3 px-8 rounded-full text-xl transition duration-300 shadow:lg transform  hover:scale-105"
+                            className: "bg-red-500 hover:bg-red-600 font-semibold text-white  py-3 px-8 rounded-full text-xl transition duration-300 shadow:lg transform  hover:scale-105",
+                            children: "Decrement"
                         }, void 0, false, {
                             fileName: "[project]/alx-project-0x04-setup/alx-project-0x05/pages/counter-app.tsx",
                             lineNumber: 49,
@@ -83,7 +84,7 @@ const CounterApp = ()=>{
                     children: "Keep Clicking, who knows what happens at 100?"
                 }, void 0, false, {
                     fileName: "[project]/alx-project-0x04-setup/alx-project-0x05/pages/counter-app.tsx",
-                    lineNumber: 57,
+                    lineNumber: 59,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]

@@ -1,8 +1,12 @@
 var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/pages/_error.js")
-R.c("server/chunks/ssr/cfb85_1b75c00e._.js")
+R.c("server/chunks/ssr/23f3e_next_edcde195._.js")
 R.c("server/chunks/ssr/[externals]_next_dist_shared_lib_no-fallback-error_external_59b92b38.js")
-R.c("server/chunks/ssr/cfb85_3b9bbf4d._.js")
-R.c("server/chunks/ssr/[root-of-the-server]__919f0b17._.js")
-R.c("server/chunks/ssr/alx-project-0x03-setup_alx-project-0x03_pages__app_tsx_c89312a4._.js")
-R.m("[project]/alx-project-0x03-setup/alx-project-0x03/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/alx-project-0x03-setup/alx-project-0x03/node_modules/next/error.js [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/_document.tsx [ssr] (ecmascript)\", INNER_APP => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/_app.tsx [ssr] (ecmascript)\" } [ssr] (ecmascript)")
-module.exports=R.m("[project]/alx-project-0x03-setup/alx-project-0x03/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/alx-project-0x03-setup/alx-project-0x03/node_modules/next/error.js [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/_document.tsx [ssr] (ecmascript)\", INNER_APP => \"[project]/alx-project-0x03-setup/alx-project-0x03/pages/_app.tsx [ssr] (ecmascript)\" } [ssr] (ecmascript)").exports
+R.c("server/chunks/ssr/23f3e_e9841d57._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__3c3d41e6._.js")
+R.c("server/chunks/ssr/23f3e_react-icons_fa_index_mjs_773c650d._.js")
+R.c("server/chunks/ssr/23f3e_react-icons_lib_a8554cc5._.js")
+R.c("server/chunks/ssr/23f3e_next_d52ca964._.js")
+R.c("server/chunks/ssr/23f3e_@swc_helpers_cjs__interop_require_wildcard_cjs_070aac66._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__6633fb53._.js")
+R.m("[project]/alx-project-0x04-setup/alx-project-0x05/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/alx-project-0x04-setup/alx-project-0x05/node_modules/next/error.js [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/alx-project-0x04-setup/alx-project-0x05/pages/_document.tsx [ssr] (ecmascript)\", INNER_APP => \"[project]/alx-project-0x04-setup/alx-project-0x05/pages/_app.tsx [ssr] (ecmascript)\" } [ssr] (ecmascript)")
+module.exports=R.m("[project]/alx-project-0x04-setup/alx-project-0x05/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/alx-project-0x04-setup/alx-project-0x05/node_modules/next/error.js [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/alx-project-0x04-setup/alx-project-0x05/pages/_document.tsx [ssr] (ecmascript)\", INNER_APP => \"[project]/alx-project-0x04-setup/alx-project-0x05/pages/_app.tsx [ssr] (ecmascript)\" } [ssr] (ecmascript)").exports

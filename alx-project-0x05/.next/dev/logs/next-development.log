@@ -1,7 +1,37 @@
-[00:00:02.120] Server  LOG     ✓ Ready in 1517ms
-[00:00:09.555] Server  LOG     ○ Compiling / ...
-[00:01:15.779] Server  ERROR   PageNotFoundError: Cannot find module for page: /generate-text-ai
-[00:01:17.694] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+[00:00:02.315] Server  LOG     ✓ Ready in 1569ms
+[00:00:09.826] Server  LOG     ○ Compiling /counter-app ...
+[00:00:11.892] Server  ERROR   Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:11.909] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:11.915] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:14.198] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:19.652] Server  ERROR   Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:19.658] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:19.663] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:19.778] Server  ERROR   Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:19.785] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:19.792] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:00:20.294] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:04:58.646] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:04:59.424] Server  ERROR   Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:04:59.429] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:04:59.438] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:04:59.439] Server  LOG     ✓ Compiled in 337ms
+[00:04:59.678] Server  LOG     ✓ Compiled in 1ms
+[00:04:59.679] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:04:59.703] Server  ERROR   Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:04:59.707] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:04:59.712] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:05:00.734] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:05:19.519] Server  LOG     ✓ Compiled in 375ms
+[00:06:49.528] Server  ERROR   Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:06:49.533] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:06:49.539] Server  ERROR   ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:06:50.144] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:12:49.121] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:12:49.514] Server  LOG     ✓ Compiled in 202ms
+[00:12:49.515] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:12:56.247] Server  ERROR   PageNotFoundError: Cannot find module for page: /generate-text-ai
+[00:12:56.858] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -14,13 +44,13 @@ It can also happen if the client has a browser extension installed which messes 
 %s%s https://react.dev/link/hydration-mismatch 
 
   ...
-    <Head>
-    <AppContainer>
-      <Container fn={function fn}>
-        <PagesDevOverlayBridge>
-          <PagesDevOverlayErrorBoundary>
-            <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
-              <App pageProps={{}} Component={function Custom404} err={undefined} router={{sdc:{},sbc:{}, ...}}>
+    <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
+      <App pageProps={{}} Component={function Custom404} err={undefined} router={{sdc:{},sbc:{}, ...}}>
+        <CountProvider>
+          <Layout>
+            <div className="flex flex-...">
+              <Header>
+              <main className="grow bg-li...">
                 <Custom404>
                   <div
 +                   className={"min-h-screen bg-linear-to-r from-purple-500 to-pink-500 \n    flex flex-col justify-c..."}
@@ -40,9 +70,10 @@ It can also happen if the client has a browser extension installed which messes 
                         href="/"
                       >
               ...
+      ...
 
-[00:01:22.643] Server  ERROR   PageNotFoundError: Cannot find module for page: /text-to-image
-[00:01:23.234] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+[00:12:58.845] Server  ERROR   PageNotFoundError: Cannot find module for page: /text-to-image
+[00:12:59.427] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -55,13 +86,13 @@ It can also happen if the client has a browser extension installed which messes 
 %s%s https://react.dev/link/hydration-mismatch 
 
   ...
-    <Head>
-    <AppContainer>
-      <Container fn={function fn}>
-        <PagesDevOverlayBridge>
-          <PagesDevOverlayErrorBoundary>
-            <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
-              <App pageProps={{}} Component={function Custom404} err={undefined} router={{sdc:{},sbc:{}, ...}}>
+    <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
+      <App pageProps={{}} Component={function Custom404} err={undefined} router={{sdc:{},sbc:{}, ...}}>
+        <CountProvider>
+          <Layout>
+            <div className="flex flex-...">
+              <Header>
+              <main className="grow bg-li...">
                 <Custom404>
                   <div
 +                   className={"min-h-screen bg-linear-to-r from-purple-500 to-pink-500 \n    flex flex-col justify-c..."}
@@ -81,90 +112,5 @@ It can also happen if the client has a browser extension installed which messes 
                         href="/"
                       >
               ...
-
-[00:04:41.421] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
-
-- A server/client branch `if (typeof window !== 'undefined')`.
-- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
-- Date formatting in a user's locale which doesn't match the server.
-- External changing data without sending a snapshot of it along with the HTML.
-- Invalid HTML tag nesting.
-
-It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
-
-%s%s https://react.dev/link/hydration-mismatch 
-
-  ...
-    <Head>
-    <AppContainer>
-      <Container fn={function fn}>
-        <PagesDevOverlayBridge>
-          <PagesDevOverlayErrorBoundary>
-            <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
-              <App pageProps={{}} Component={function CounterApp} err={undefined} router={{sdc:{},sbc:{}, ...}}>
-                <CounterApp>
-                  <div
-+                   className={"min-h-screen bg-linear-to-r from-yellow-400\n         to-pink-500 flex flex-col justi..."}
--                   className="min-h-screen bg-linear-to-r from-yellow-400 to-pink-500 flex flex-col justify-center it..."
-                  >
-                    <h1>
-                    <p>
-                    <div>
-                    <div className="flex space...">
-                      <button
-                        onClick={function t0}
-+                       className={"bg-green-500 hover:bg-green-600 font-semibold text-white \n                     p..."}
--                       className={"bg-green-500 hover:bg-green-600 font-semibold text-white  py-3 px-8 rounded-full ..."}
-                      >
-+                       Increment
-                      <button
-                        onClick={function t1}
-+                       className={"bg-red-500 hover:bg-red-600 font-semibold text-white \n                     py-3 ..."}
--                       className="bg-red-500 hover:bg-red-600 font-semibold text-white  py-3 px-8 rounded-full text-x..."
-                      >
-                    ...
-              ...
-
-[00:04:42.816] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
-
-- A server/client branch `if (typeof window !== 'undefined')`.
-- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
-- Date formatting in a user's locale which doesn't match the server.
-- External changing data without sending a snapshot of it along with the HTML.
-- Invalid HTML tag nesting.
-
-It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
-
-%s%s https://react.dev/link/hydration-mismatch 
-
-  ...
-    <Head>
-    <AppContainer>
-      <Container fn={function fn}>
-        <PagesDevOverlayBridge>
-          <PagesDevOverlayErrorBoundary>
-            <PathnameContextProviderAdapter router={{sdc:{},sbc:{}, ...}} isAutoExport={true}>
-              <App pageProps={{}} Component={function CounterApp} err={undefined} router={{sdc:{},sbc:{}, ...}}>
-                <CounterApp>
-                  <div
-+                   className={"min-h-screen bg-linear-to-r from-yellow-400\n         to-pink-500 flex flex-col justi..."}
--                   className="min-h-screen bg-linear-to-r from-yellow-400 to-pink-500 flex flex-col justify-center it..."
-                  >
-                    <h1>
-                    <p>
-                    <div>
-                    <div className="flex space...">
-                      <button
-                        onClick={function t0}
-+                       className={"bg-green-500 hover:bg-green-600 font-semibold text-white \n                     p..."}
--                       className={"bg-green-500 hover:bg-green-600 font-semibold text-white  py-3 px-8 rounded-full ..."}
-                      >
-+                       Increment
-                      <button
-                        onClick={function t1}
-+                       className={"bg-red-500 hover:bg-red-600 font-semibold text-white \n                     py-3 ..."}
--                       className="bg-red-500 hover:bg-red-600 font-semibold text-white  py-3 px-8 rounded-full text-x..."
-                      >
-                    ...
-              ...
+      ...
 
