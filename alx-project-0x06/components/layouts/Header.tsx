@@ -3,9 +3,14 @@ import Button from "../common/Button";
 import { usePathname } from "next/navigation";
 import { useCount } from "@/context/CountContext";
 
+import { useSelector } from "react-redux";
+import { RootState } from "@reduxjs/toolkit/query";
+
 const Header: React.FC = () => {
   const pathname = usePathname();
-  const { count } = useCount();
+  // const { count } = useCount();
+
+  const count = useSelector((state: RootState) => state.counter.value);
 
   return (
     <header className="fixed w-full bg-white shadow-md">
@@ -21,6 +26,7 @@ const Header: React.FC = () => {
         <div className="flex gap-4">
           {!["/counter-app"].includes(pathname) ? (
             <>
+              <Button buttonLabel="Sign In" buttonBackgroundColor="red" />
               <Button buttonLabel="Sign Up" buttonBackgroundColor="blue" />
             </>
           ) : (
